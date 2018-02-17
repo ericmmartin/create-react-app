@@ -14,7 +14,11 @@ npx create-react-app my-app --scripts-version react-scripts-enhanced
 
 ## Features
 
+* Removed registerServiceWorker.js file and references
+
 The remainder of this file is directly from the CRA repo...
+
+---
 
 # react-scripts
 

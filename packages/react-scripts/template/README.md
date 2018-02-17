@@ -1,3 +1,16 @@
+# react-scripts-enhanced
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) with [react scripts-enhanced](https://github.com/ericmmartin/react-scripts-enhanced/blob/master/packages/react-scripts/).
+
+## Features
+
+* Removed registerServiceWorker.js file and references
+
+
+The remainder of this file is directly from the CRA repo...
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
